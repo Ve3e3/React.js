@@ -1,0 +1,138 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.corW{
+  color: white;
+}
+.corT{
+  background-color: red;
+}
+.text-right{
+  margin-left: 600px ;
+}
+.puma{
+  color: white;
+  background-color: rgb(24, 26, 27);
+}
+.puma2{
+  height: 500px;
+  color: white;
+  background-color: rgb(24, 26, 27);
+}
+.corola{
+  background-color: red;
+  height: 200px;
+}
+.monza{
+  margin: left 50px;;
+}
+.gol{
+  color: goldenrod;
+  border: black;
+}
+.fiat{
+  color: white;
+}
+.opala{
+  height: 500px;
+}
+.maverick{
+  background-color: rgb(24, 26, 27);
+  height: 3350px;
+  margin-bottom: 5px;
+}
+.brasilia{
+  height: 1150px;
+  width: 1000px;
+  background-color: olive;
+  text-align: center;
+}
+.Hofstetter{
+  height: 300px;
+  background-color: burlywood;
+  margin: 5px;
+  text-align: center;
+  border-width: 3px;
+  border-style: solid;
+  border-color: black;
+}
+.fusca{
+  /* background-color: blue; */
+  height: 100px;
+  margin-bottom: 5px;
+  text-align: center;
+  text-justify: auto;
+}
+.palio{
+  background-color: olive;
+  height: 550px;
+  width: 700px;
+  margin: 5px;
+  margin-top: 5px;
+}
+.uno{
+  height: 475px;
+  width: 725px;
+  background-color: bisque;
+  border-width: 3px;
+  border-style: solid;
+  border-color: black;
+  margin: 10px;
+}
+.uno2{
+  height: 475px;
+  width: 725px;
+  background-color: bisque;
+  margin: 10px;
+}
+.T1{
+  color: black
+}
+.BMW{
+  background-color: rgb(24, 26, 27);
+  color: black;
+  height: 3675px;
+  margin-bottom: 5px;
+  font-family: arial;
+}
+.porcshe{
+  background-color: olive;
+  height: 550px;
+  width: 700px;
+  margin: 5px;
+  margin-top: 5px;
+}
+.folio{
+  height: 475px;
+  width: 725px;
+  background-color: bisque;
+  border-width: 3px;
+  border-style: solid;
+  border-color: brown;
+  margin: 10px;
+  text-align: justify;
+}
+.onill{
+  height: 750px;
+  background-color: rosybrown;
+}
+.faixa{
+  height: 150px;
+  background-color: chocolate;
+}
+.Lamborghini{
+  height: 300px;
+  width: 300px;
+  background-color: purple;
+  margin: 2px;
+}
